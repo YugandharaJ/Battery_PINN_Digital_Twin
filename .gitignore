@@ -1,0 +1,11 @@
+# data (download separately, see README)
+archive.zip
+cleaned_dataset/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
